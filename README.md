@@ -7,7 +7,7 @@
 
 - Instagram Profile [Vedanti](https://www.instagram.com/vedantiiii_272/)
 
-- Contact INFO **7219442493**
+
 
 - 👨‍💻 All of my Certification are available at [https://drive.google.com/drive/folders/1VvrMAvnOyt4WwhwogExoK56nbdx-_HcP?usp=share_link](https://drive.google.com/drive/folders/1VvrMAvnOyt4WwhwogExoK56nbdx-_HcP?usp=share_link)
 
