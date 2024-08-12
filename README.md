@@ -3,7 +3,7 @@
 
 - Linkedin Profile [Vedanti Rohankar](https://www.linkedin.com/in/vedanti-rohankar/)
 
-- 🌱 I’m currently learning **Machine Learning and deep Learning**
+- 🌱 I’m currently learning **Big Data**
 
 - Instagram Profile [Vedanti](https://www.instagram.com/vedantiiii_272/)
 
