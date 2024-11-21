@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm vedanti Rohankar</h1>
-<h3 align="center">A passionate Andriod developer from India</h3>
+<h3 align="center">Data Aanalyst</h3>
 
 - Linkedin Profile [Vedanti Rohankar](https://www.linkedin.com/in/vedanti-rohankar/)
 
-- 🌱 I’m currently learning **Big Data**
+- 🌱 I’m currently learning **Azurr Data Lakes**
 
 - Instagram Profile [Vedanti](https://www.instagram.com/vedantiiii_272/)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write Blogs on [Imaginary stories](Imaginary stories)
 
-- I’m currently Pursuing **Master of Computer Application**
+- I’m currently working **A SQL developer**
 
 - 📫 How to reach me **vedantirohankar@gmail.com**
 
