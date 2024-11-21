@@ -3,7 +3,7 @@
 
 - Linkedin Profile [Vedanti Rohankar](https://www.linkedin.com/in/vedanti-rohankar/)
 
-- 🌱 I’m currently learning **Azurr Data Lakes**
+- 🌱 I’m currently learning **Azure Data Lakes , Data Catlogs**
 
 - Instagram Profile [Vedanti](https://www.instagram.com/vedantiiii_272/)
 
