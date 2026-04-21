@@ -3,7 +3,7 @@
 
 - Linkedin Profile [Vedanti Rohankar](https://www.linkedin.com/in/vedanti-rohankar/)
 
-- 🌱 I’m currently learning **Azure Data Lakes , Data Catlogs**
+- 🌱 I’m currently learning **Azure Databricks , sql , power BI , Advance Excel , SFDC **
 
 - Instagram Profile [Vedanti](https://www.instagram.com/vedantiiii_272/)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write Blogs on [Imaginary stories](Imaginary stories)
 
-- I’m currently working **A SQL developer**
+- I’m currently working **A Data Analyst**
 
 - 📫 How to reach me **vedantirohankar@gmail.com**
 
