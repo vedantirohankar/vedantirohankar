@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Vedanti Rohankar
-### Data Analyst
+### Data Analyst / Data Engineer
 
 ![](https://img.shields.io/badge/📍_Pune,_India-teal?style=flat-square)
 ![](https://img.shields.io/badge/💼_Currently_Working-purple?style=flat-square)
