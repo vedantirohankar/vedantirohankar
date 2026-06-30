@@ -12,7 +12,7 @@
 ---
 
 ### 🌱 Currently Learning
-`Azure Databricks` `SQL` `Power BI` `Advanced Excel` `Salesforce (SFDC)`
+`Azure Databricks` `SQL` `Power BI` `Advanced Excel` `Salesforce (SFDC)` `AWS` `Azure Data factory`
 
 ---
 
